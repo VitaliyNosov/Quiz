@@ -1,0 +1,99 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * univia-pro:
+ *   - http://typekit.com/eulas/00000000000000003b9add6c
+ *   - http://typekit.com/eulas/00000000000000003b9add6d
+ *   - http://typekit.com/eulas/00000000000000003b9add70
+ *   - http://typekit.com/eulas/00000000000000003b9add74
+ *   - http://typekit.com/eulas/00000000000000003b9add75
+ *   - http://typekit.com/eulas/00000000000000003b9add76
+ *   - http://typekit.com/eulas/00000000000000003b9add77
+ *   - http://typekit.com/eulas/00000000000000003b9add78
+ *   - http://typekit.com/eulas/00000000000000003b9add79
+ *   - http://typekit.com/eulas/00000000000000003b9add7a
+ *   - http://typekit.com/eulas/00000000000000003b9add7b
+ *   - http://typekit.com/eulas/00000000000000003b9add7c
+ *
+ * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2020-08-04 16:23:38 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=abh7bku&ht=tk&f=28763.28764.28767.28771.28772.28773.28774.28775.28776.28777.28778.28779&a=16496740&app=typekit&e=css");
+
+@font-face {
+font-family:"univia-pro";
+src:url("https://use.typekit.net/af/f404b4/00000000000000003b9add6c/27/l?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i8&v=3") format("woff2"),url("https://use.typekit.net/af/f404b4/00000000000000003b9add6c/27/d?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i8&v=3") format("woff"),url("https://use.typekit.net/af/f404b4/00000000000000003b9add6c/27/a?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i8&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:800;
+}
+
+@font-face {
+font-family:"univia-pro";
+src:url("https://use.typekit.net/af/fbc5c1/00000000000000003b9add6d/27/l?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i6&v=3") format("woff2"),url("https://use.typekit.net/af/fbc5c1/00000000000000003b9add6d/27/d?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i6&v=3") format("woff"),url("https://use.typekit.net/af/fbc5c1/00000000000000003b9add6d/27/a?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i6&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;
+}
+
+@font-face {
+font-family:"univia-pro";
+src:url("https://use.typekit.net/af/ba5000/00000000000000003b9add70/27/l?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i5&v=3") format("woff2"),url("https://use.typekit.net/af/ba5000/00000000000000003b9add70/27/d?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i5&v=3") format("woff"),url("https://use.typekit.net/af/ba5000/00000000000000003b9add70/27/a?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i5&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:500;
+}
+
+@font-face {
+font-family:"univia-pro";
+src:url("https://use.typekit.net/af/0530c6/00000000000000003b9add74/27/l?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/0530c6/00000000000000003b9add74/27/d?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/0530c6/00000000000000003b9add74/27/a?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"univia-pro";
+src:url("https://use.typekit.net/af/e990b1/00000000000000003b9add75/27/l?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n5&v=3") format("woff2"),url("https://use.typekit.net/af/e990b1/00000000000000003b9add75/27/d?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n5&v=3") format("woff"),url("https://use.typekit.net/af/e990b1/00000000000000003b9add75/27/a?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n5&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;
+}
+
+@font-face {
+font-family:"univia-pro";
+src:url("https://use.typekit.net/af/1931f0/00000000000000003b9add76/27/l?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/1931f0/00000000000000003b9add76/27/d?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/1931f0/00000000000000003b9add76/27/a?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n3&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;
+}
+
+@font-face {
+font-family:"univia-pro";
+src:url("https://use.typekit.net/af/eb6867/00000000000000003b9add77/27/l?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n6&v=3") format("woff2"),url("https://use.typekit.net/af/eb6867/00000000000000003b9add77/27/d?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/eb6867/00000000000000003b9add77/27/a?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n6&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;
+}
+
+@font-face {
+font-family:"univia-pro";
+src:url("https://use.typekit.net/af/9036d5/00000000000000003b9add78/27/l?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/9036d5/00000000000000003b9add78/27/d?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/9036d5/00000000000000003b9add78/27/a?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"univia-pro";
+src:url("https://use.typekit.net/af/ea398c/00000000000000003b9add79/27/l?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i3&v=3") format("woff2"),url("https://use.typekit.net/af/ea398c/00000000000000003b9add79/27/d?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i3&v=3") format("woff"),url("https://use.typekit.net/af/ea398c/00000000000000003b9add79/27/a?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i3&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:300;
+}
+
+@font-face {
+font-family:"univia-pro";
+src:url("https://use.typekit.net/af/e0ff42/00000000000000003b9add7a/27/l?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n8&v=3") format("woff2"),url("https://use.typekit.net/af/e0ff42/00000000000000003b9add7a/27/d?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n8&v=3") format("woff"),url("https://use.typekit.net/af/e0ff42/00000000000000003b9add7a/27/a?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n8&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:800;
+}
+
+@font-face {
+font-family:"univia-pro";
+src:url("https://use.typekit.net/af/9eb29d/00000000000000003b9add7b/27/l?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/9eb29d/00000000000000003b9add7b/27/d?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/9eb29d/00000000000000003b9add7b/27/a?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"univia-pro";
+src:url("https://use.typekit.net/af/fed266/00000000000000003b9add7c/27/l?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/fed266/00000000000000003b9add7c/27/d?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/fed266/00000000000000003b9add7c/27/a?primer=3a6076633bc77831ac9fb811601de898b4ca8cd1e0aff02d16b23a013090f4db&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+.tk-univia-pro { font-family: "univia-pro",sans-serif; }
